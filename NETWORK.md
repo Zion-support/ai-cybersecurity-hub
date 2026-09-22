@@ -1,17 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Cybersecurity Hub
 
-**ai-cybersecurity-hub** is part of the Zion Tech Group app network (640+ apps).
+Threat detection and response.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🏠 [Zion Tech Group](https://ziontechgroup.com) · 💼 [Plans](https://ziontechgroup.com/en/plans/) · 📞 [Discovery](https://ziontechgroup.com/discovery/)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [zion-cyber-ai](https://github.com/Zion-support/zion-cyber-ai) · [ai-phishing-simulator](https://github.com/Zion-support/ai-phishing-simulator) · [zion-ai-threat-intel](https://github.com/Zion-support/zion-ai-threat-intel) · [zion-security-shield](https://github.com/Zion-support/zion-security-shield) · [cybersecurity-risk-assessment](https://github.com/Zion-support/cybersecurity-risk-assessment)
 
-## Related apps
-- [ai-customer-experience-hub](https://github.com/Zion-support/ai-customer-experience-hub) — https://ziontechgroup.com/ai-customer-experience-hub/
-- [ai-data-engineering-hub](https://github.com/Zion-support/ai-data-engineering-hub) — https://ziontechgroup.com/ai-data-engineering-hub/
-- [ai-growth-marketing-hub](https://github.com/Zion-support/ai-growth-marketing-hub) — https://ziontechgroup.com/ai-growth-marketing-hub/
-- [ai-retail-commerce-hub](https://github.com/Zion-support/ai-retail-commerce-hub) — https://ziontechgroup.com/ai-retail-commerce-hub/
-- [cybersecurity-risk-assessment](https://github.com/Zion-support/cybersecurity-risk-assessment) — https://ziontechgroup.com/cybersecurity-risk-assessment/
-- [zion-ai-translation-hub](https://github.com/Zion-support/zion-ai-translation-hub) — https://ziontechgroup.com/zion-ai-translation-hub/
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
