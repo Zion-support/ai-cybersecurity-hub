@@ -1,13 +1,16 @@
 # AI Cybersecurity Hub
 
-Threat detection, response and security posture management powered by AI.
+Threat detection and response with AI.
 
-Part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
+**Live app:** https://ziontechgroup.com/ai-cybersecurity-hub/
 
-- 🏠 Homepage: https://ziontechgroup.com
-- 📂 Full app catalog: https://ziontechgroup.com/apps/
-- 📢 About the network: https://ziontechgroup.com/app-network/
-- 💻 GitHub org: https://github.com/Zion-support
-- ✉️ Contact: commercial@ziontechgroup.com
+## Features
+- Anomaly-based threat detection
+- Automated triage and response playbooks
+- Security posture scoring
 
-Related apps: [cybersecurity-risk-assessment](https://github.com/Zion-support/cybersecurity-risk-assessment) · [ai-phishing-simulator](https://github.com/Zion-support/ai-phishing-simulator) · [secrets-sentinel](https://github.com/Zion-support/secrets-sentinel)
+## Zion App Network
+Part of the [Zion App Network](https://ziontechgroup.com/apps/).
+Related: [Threat Intel](https://github.com/Zion-support/zion-ai-threat-intel) · [Prompt Shield](https://github.com/Zion-support/prompt-shield) · [Compliance Scanner](https://github.com/Zion-support/zion-ai-compliance-scanner) · [Prompt Leak Scanner](https://github.com/Zion-support/zion-prompt-leak-scanner)
+
+© 2026 Zion Tech Group
