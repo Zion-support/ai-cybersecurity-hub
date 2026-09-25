@@ -1,6 +1,6 @@
 # AI Cybersecurity Hub — Network Links
 
-Centralize security alerts, posture scoring and incident workflows.
+Centralize alerts, vulnerabilities and posture scoring for your security stack.
 
 ## Live
 - App: https://ziontechgroup.com/ai-cybersecurity-hub/
@@ -9,8 +9,8 @@ Centralize security alerts, posture scoring and incident workflows.
 
 ## Related apps
 - [patch-priority-radar](https://ziontechgroup.com/patch-priority-radar/) · [GitHub](https://github.com/Zion-support/patch-priority-radar)
-- [security-awareness-coach](https://ziontechgroup.com/security-awareness-coach/) · [GitHub](https://github.com/Zion-support/security-awareness-coach)
 - [ai-compliance-auditor](https://ziontechgroup.com/ai-compliance-auditor/) · [GitHub](https://github.com/Zion-support/ai-compliance-auditor)
+- [incident-comms-writer](https://ziontechgroup.com/incident-comms-writer/) · [GitHub](https://github.com/Zion-support/incident-comms-writer)
 
 ## Network
 - Homepage: https://ziontechgroup.com
