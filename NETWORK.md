@@ -1,6 +1,6 @@
 # AI Cybersecurity Hub — Network Links
 
-Threat detection, triage and response guidance in one hub.
+Centralize security alerts, posture scoring and incident workflows.
 
 ## Live
 - App: https://ziontechgroup.com/ai-cybersecurity-hub/
